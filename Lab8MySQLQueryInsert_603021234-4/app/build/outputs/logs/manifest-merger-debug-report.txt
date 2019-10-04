@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\dd7403555dead0e5b22d516d0dd35ea2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\5f7b14752f71a111a619738b40ec64c8\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\72f8c6a03ba18272a7605f8c18150b02\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d4eb0cece82053fb51b8364aaa86a7b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\0db451d4a2ad74f34aaf3b63ac76058d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\8a9e01d2280c0f7adf141b10062be1ae\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\400760b0f66d69595d04613b06dde8b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\2f284c76582bf679d03d0c6dc3b8f2b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\eadd1f611b95d3387d3a835df96d8cb9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\23ab9c570c89582de8b701eda4e767af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\192670fd96000c62011e56ad0656016f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d21a3e05c720619b56d69984aef9a42c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\b8ee621e00c2c826f4a6780f8e003b10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\79dff11a9827f5959938d8a14c9add38\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\cced5f9fce13fafcc97a9f6c74b3c876\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\12dc2a5253dc87f771ad2762dfc8e918\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a88709f3025683f5632fd985a28916f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\59dc46cbbcac00821baa0c5266ba3fab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\b31e8000e56c5b23ee1fadc0a3274deb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\583ebf2f693b618c182d99526be10b7a\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\8196e38a3ce1903375d47626425ca770\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a9f4273fc71ea7e9e479eab67400687c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\f6462a01453d1e8baef882d7c5e133fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\9efdc152cb793beb5365568ebdddda21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\afda17a6b91654664689315f1357b084\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\e96b6373014c1f701293065a925f1c79\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\84cb5d9437cd6704c77213488adcefac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\bb428e2d7dcd58afebab3b35fcd43a37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\1e27626afa8a711cedc3ed239dc0fcc0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\778d61e1121281e70415826cecd47804\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d09ee8de281f86782fc11caaa2bab44e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\6242c24dd98899147df6bb2715d12f16\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:3:11-53
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\72f8c6a03ba18272a7605f8c18150b02\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\72f8c6a03ba18272a7605f8c18150b02\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\583ebf2f693b618c182d99526be10b7a\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\583ebf2f693b618c182d99526be10b7a\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a9f4273fc71ea7e9e479eab67400687c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a9f4273fc71ea7e9e479eab67400687c\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\583ebf2f693b618c182d99526be10b7a\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.example.lab8mysqlqueryinsert.InsertActivity
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.lab8mysqlqueryinsert.MainActivity
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\dd7403555dead0e5b22d516d0dd35ea2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\dd7403555dead0e5b22d516d0dd35ea2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\5f7b14752f71a111a619738b40ec64c8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\5f7b14752f71a111a619738b40ec64c8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\72f8c6a03ba18272a7605f8c18150b02\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\72f8c6a03ba18272a7605f8c18150b02\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d4eb0cece82053fb51b8364aaa86a7b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d4eb0cece82053fb51b8364aaa86a7b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\0db451d4a2ad74f34aaf3b63ac76058d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\0db451d4a2ad74f34aaf3b63ac76058d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\8a9e01d2280c0f7adf141b10062be1ae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\8a9e01d2280c0f7adf141b10062be1ae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\400760b0f66d69595d04613b06dde8b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\400760b0f66d69595d04613b06dde8b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\2f284c76582bf679d03d0c6dc3b8f2b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\2f284c76582bf679d03d0c6dc3b8f2b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\eadd1f611b95d3387d3a835df96d8cb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\eadd1f611b95d3387d3a835df96d8cb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\23ab9c570c89582de8b701eda4e767af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\23ab9c570c89582de8b701eda4e767af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\192670fd96000c62011e56ad0656016f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\192670fd96000c62011e56ad0656016f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d21a3e05c720619b56d69984aef9a42c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d21a3e05c720619b56d69984aef9a42c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\b8ee621e00c2c826f4a6780f8e003b10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\b8ee621e00c2c826f4a6780f8e003b10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\79dff11a9827f5959938d8a14c9add38\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\79dff11a9827f5959938d8a14c9add38\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\cced5f9fce13fafcc97a9f6c74b3c876\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\cced5f9fce13fafcc97a9f6c74b3c876\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\12dc2a5253dc87f771ad2762dfc8e918\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\12dc2a5253dc87f771ad2762dfc8e918\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a88709f3025683f5632fd985a28916f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a88709f3025683f5632fd985a28916f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\59dc46cbbcac00821baa0c5266ba3fab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\59dc46cbbcac00821baa0c5266ba3fab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\b31e8000e56c5b23ee1fadc0a3274deb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\b31e8000e56c5b23ee1fadc0a3274deb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\583ebf2f693b618c182d99526be10b7a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\583ebf2f693b618c182d99526be10b7a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\8196e38a3ce1903375d47626425ca770\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\8196e38a3ce1903375d47626425ca770\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a9f4273fc71ea7e9e479eab67400687c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\a9f4273fc71ea7e9e479eab67400687c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\f6462a01453d1e8baef882d7c5e133fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\f6462a01453d1e8baef882d7c5e133fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\9efdc152cb793beb5365568ebdddda21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\9efdc152cb793beb5365568ebdddda21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\afda17a6b91654664689315f1357b084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\afda17a6b91654664689315f1357b084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\e96b6373014c1f701293065a925f1c79\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\e96b6373014c1f701293065a925f1c79\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\84cb5d9437cd6704c77213488adcefac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\84cb5d9437cd6704c77213488adcefac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\bb428e2d7dcd58afebab3b35fcd43a37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\bb428e2d7dcd58afebab3b35fcd43a37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\1e27626afa8a711cedc3ed239dc0fcc0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\1e27626afa8a711cedc3ed239dc0fcc0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\778d61e1121281e70415826cecd47804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\778d61e1121281e70415826cecd47804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d09ee8de281f86782fc11caaa2bab44e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\d09ee8de281f86782fc11caaa2bab44e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\6242c24dd98899147df6bb2715d12f16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\CANDY\.gradle\caches\transforms-2\files-2.1\6242c24dd98899147df6bb2715d12f16\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CANDY\Desktop\Lab8MySQLQueryInsert_603021234-4\app\src\main\AndroidManifest.xml
